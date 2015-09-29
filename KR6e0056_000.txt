@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說莊嚴菩提心經
+#+DATE: 2015-09-28 22:57:04.741444
+#+PROPERTY: JUAN 0
