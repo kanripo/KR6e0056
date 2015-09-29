@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:04.547180
+#+DATE: 2015-09-28 22:57:05.738639
 #+TITLE: 佛說莊嚴菩提心經
 #+PROPERTY: CBETA_ID T10n0307
 #+PROPERTY: ID KR6e0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 307
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0056_T_001-0961b> 
 #+PROPERTY: JUAN 1
 ¶
-No.307¶
-
- 《佛說莊嚴菩提心經》一卷¶
+No. 307¶
+《佛說莊嚴菩提心經》一卷¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
@@ -101,8 +100,8 @@ No.307¶
 土坦然平整以眾寶暐曄莊嚴；三地能見諸¶
 力士為降伏怨敵；四地能見四方有諸風輪¶
 來，有種種妙華遍布其地；五地能見眾妓女¶
-以眾寶瓔珞其身，上有憂鉢羅華天冠、薝¶
-蔔華天冠、婆師迦華天冠、阿提目多伽華天¶
+以眾寶瓔珞其身，上有憂鉢羅華天冠、膽¶
+匐華天冠、婆師迦華天冠、阿提目多伽華天¶
 冠而為嚴容；六地見眾寶池八功德水湛然¶
 盈滿，其池四邊有七寶階道底布金沙，自見¶
 己身在此池中嬉戲娛樂；七地見其左右有¶
