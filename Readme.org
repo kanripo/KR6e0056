@@ -1,12 +1,14 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:04.525918
-#+TITLE: 佛說莊嚴菩提心經
-#+PROPERTY: CBETA_ID T10n0307
-#+PROPERTY: ID KR6e0056
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 307
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 佛說莊嚴菩提心經 / master
+#+DATE: 2015-11-26 14:13:43.772306
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |    T@MING|【大→明】   |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-<pb:KR6e0056_T_000-0961b>¶
-
+* 目次
+* 卷
+** [[file:KR6e0056_001.txt][佛說莊嚴菩提心經 1]]
