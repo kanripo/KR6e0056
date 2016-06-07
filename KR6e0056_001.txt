@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:04.547180
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:47
 #+TITLE: 佛說莊嚴菩提心經
 #+PROPERTY: CBETA_ID T10n0307
 #+PROPERTY: ID KR6e0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 307
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0056_T_001-0961b> 
 #+PROPERTY: JUAN 1
 ¶
-No.307¶
-
- 《佛說莊嚴菩提心經》一卷¶
+No. 307¶
+《佛說莊嚴菩提心經》一卷¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
